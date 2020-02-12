@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="calculo">Calculo</string>
+    <string name="borrar">Borrar</string>
+    <string name="cer">0</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="sum">+</string>
+    <string name="multi">*</string>
+    <string name="div">/</string>
+    <string name="igu">=</string>
+    <string name="men">-</string>
+    <string name="pun">.</string>
+
+
+</resources>
